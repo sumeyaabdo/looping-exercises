@@ -6,7 +6,6 @@ public class ForLoop {
             System.out.println(i);
             Thread.sleep(1000);
         }
-
         System.out.println("Launch!");
     }
 }
